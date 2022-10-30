@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nomadic-ocean-322107",
+  "private_key_id": "b4201300b7423ebdd81418589cce83508bc186a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXanraP5Xwy2zY\nzac6eTnUKNgueHAqGOs0BQoOLzWUS7gpIBPL/liIfj+5JMPSHlOruzRRB03uCnaZ\nZYvdfb6XhZa6LhnALORyDHkaLZiV8mDYQHvQC5G9reBKG2NhXy6kt8zhMO+Rm11v\nF7X5RFEkLymYVCtTzeZFIrHAzt07eS9hXY4StZAsCh2lRkyDgn7NFR9BPdlWZDQ/\nFULNFOpYPS2P6cN6VZnsEMfj3JoWdkvIcrdMGz0b20bvVwGFAG6DklfIqrqrM5Gy\np8awTAgf84mNeHiJCioT2EruGWRaZyoXXFFwE4lkJt2j/LE7TQ3wOS6zhM/LC0c+\nhTSTgtG7AgMBAAECggEAHXIuOfAwMFq2VcqC3gDdMU2mA3AuMOr4F8PKlJbKdauG\nEIUUf7GUa5AKaOYIKIxBtrtf0uWzNuNSQ/S4Ej5Sk8bMjEWp+nWIgriGw1fRQEoC\nB/2EjzNNqEaA3tBwnMpUh2qihHPag6ZftsRgeSLoDpCt2GdFBu8h13h/INKGNk9B\nsb96PzRl6t7H9NqMZ9PZcWCw1QsVcYGsLpDKp9iyw10cKqP42V8xl5tE4+Vj70eg\nRK9E4q13jTgwWxGWQeCeXRDOZB7roC9Jik4zSSnZrslVZtLbXkCnqh7+D/0ZjghI\n6FJA9uWi1vd9974hEHFJPuHUG2YwK+n1SYLG+WkBMQKBgQD1a1IhRSoasxH8Drpo\n9FBlq71+3zk+XzaArZH9K2AR0gyRMTn+JhRMlCs4iDpOk1Se7wPLXyNLLYisffY2\nTdMUbUNn92/hx2bn9olGk04sQxMBA0WxEoW3myir7WnbPAOeS6lQY8rq7H1BIcVA\nmEjfwtEADBWuOx5yuTkgIv1BMQKBgQDgtAOuVlW/E8LMdKeoVrUgbMtBD2u8vXOF\no77C5+TOznZ26eCbnMBwT+KS6TTwSscLWzYJ46vTZFXm1YLC+OnDJG83ALNJ9oFN\nFo5UshHhgLCTvLpeKA+LUyk1KCxiQ/xF+yGSUzxLwCpKuyqLGKeS47FHzxM+BW1C\nnIceZJsmqwKBgFsg2aNO+l5lpcTxdxhnt7648ak9nBTj5+oKCU53n7meRFpZbA5J\n93mj/xSDyRrKLD7Dw6Xtkr5kjv5120m4xisskz30rA+rKjPx4HFbW0imM1VJ8MPa\ne9p8e7Kzen4Un8dUku8tzvhCjhP0RTlCErU7sr2QvzAt9ZVl36dmNqHRAoGAMkf1\n3ugQze4VE/0ymxez9iqCHO/fct+N3ySyBhkv+Rr4JUnWadvcsAUgNTGcF/0TpzXk\n1LeudmIoWrwCQ7DBVlprzIoKlI1lh6N5e/hQyf4rBRQhO/qI5+tW+D8iF2cRJ3O3\nom+fuW+pxwk0zuVYciUjQWdT7ff26AXwslte4HsCgYEA7OMCxhw7mAdZp3BPEwKN\nGRhpLc2edQ/K9FPSw+zEOEYvXK6MgfiiBvFi6OLcg+1nRZ9pd0LIlkvkT/LQB53E\nWG0ABZwK7ctefXBw6TZzbENlliPIj1+iroFmlfWli72iHHitK9FXSZa/iPl5zyfC\nSvblcxR9LCBPpS28Z/ty+p4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-api@nomadic-ocean-322107.iam.gserviceaccount.com",
+  "client_id": "100087958282262850854",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-api%40nomadic-ocean-322107.iam.gserviceaccount.com"
+}

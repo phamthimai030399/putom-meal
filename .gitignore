@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/public/upload
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+composer.lock
+/tham_khao_betdayroi
+/tham_khao_nhacai24h
